@@ -1,0 +1,8 @@
+var1="$1"
+var2="$2"
+var3="$3"
+
+grep $var1 emp.lst
+grep $var2 emp.lst
+grep $var3 emp.lst
+
